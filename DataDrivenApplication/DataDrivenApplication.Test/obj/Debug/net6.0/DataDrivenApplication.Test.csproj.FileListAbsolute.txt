@@ -1,0 +1,7 @@
+C:\Users\jayan\source\repos\DataDrivenApplication\DataDrivenApplication.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\jayan\source\repos\DataDrivenApplication\DataDrivenApplication.Test\obj\Debug\net6.0\DataDrivenApplication.Test.csproj.AssemblyReference.cache
+C:\Users\jayan\source\repos\DataDrivenApplication\DataDrivenApplication.Test\obj\Debug\net6.0\DataDrivenApplication.Test.csproj.ResolveComReference.cache
+C:\Users\jayan\source\repos\DataDrivenApplication\DataDrivenApplication.Test\obj\Debug\net6.0\DataDrivenApplication.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayan\source\repos\DataDrivenApplication\DataDrivenApplication.Test\obj\Debug\net6.0\DataDrivenApplication.Test.AssemblyInfoInputs.cache
+C:\Users\jayan\source\repos\DataDrivenApplication\DataDrivenApplication.Test\obj\Debug\net6.0\DataDrivenApplication.Test.AssemblyInfo.cs
+C:\Users\jayan\source\repos\DataDrivenApplication\DataDrivenApplication.Test\obj\Debug\net6.0\DataDrivenApplication.Test.csproj.CoreCompileInputs.cache

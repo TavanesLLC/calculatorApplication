@@ -1,0 +1,6 @@
+C:\Users\jayan\source\repos\InitializationAndCleanup\TestInitializationAndCleanup.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\jayan\source\repos\InitializationAndCleanup\TestInitializationAndCleanup.Test\obj\Debug\net6.0\TestInitializationAndCleanup.Test.csproj.AssemblyReference.cache
+C:\Users\jayan\source\repos\InitializationAndCleanup\TestInitializationAndCleanup.Test\obj\Debug\net6.0\TestInitializationAndCleanup.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayan\source\repos\InitializationAndCleanup\TestInitializationAndCleanup.Test\obj\Debug\net6.0\TestInitializationAndCleanup.Test.AssemblyInfoInputs.cache
+C:\Users\jayan\source\repos\InitializationAndCleanup\TestInitializationAndCleanup.Test\obj\Debug\net6.0\TestInitializationAndCleanup.Test.AssemblyInfo.cs
+C:\Users\jayan\source\repos\InitializationAndCleanup\TestInitializationAndCleanup.Test\obj\Debug\net6.0\TestInitializationAndCleanup.Test.csproj.CoreCompileInputs.cache

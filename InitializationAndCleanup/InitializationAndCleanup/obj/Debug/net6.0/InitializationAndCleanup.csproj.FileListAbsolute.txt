@@ -1,0 +1,5 @@
+C:\Users\jayan\source\repos\InitializationAndCleanup\InitializationAndCleanup\obj\Debug\net6.0\InitializationAndCleanup.csproj.AssemblyReference.cache
+C:\Users\jayan\source\repos\InitializationAndCleanup\InitializationAndCleanup\obj\Debug\net6.0\InitializationAndCleanup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayan\source\repos\InitializationAndCleanup\InitializationAndCleanup\obj\Debug\net6.0\InitializationAndCleanup.AssemblyInfoInputs.cache
+C:\Users\jayan\source\repos\InitializationAndCleanup\InitializationAndCleanup\obj\Debug\net6.0\InitializationAndCleanup.AssemblyInfo.cs
+C:\Users\jayan\source\repos\InitializationAndCleanup\InitializationAndCleanup\obj\Debug\net6.0\InitializationAndCleanup.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\jayan\source\repos\DataDrivenApplication\DataDrivenApplication\bin\Debug\net6.0\DataDrivenApplication.exe
+C:\Users\jayan\source\repos\DataDrivenApplication\DataDrivenApplication\bin\Debug\net6.0\DataDrivenApplication.deps.json
+C:\Users\jayan\source\repos\DataDrivenApplication\DataDrivenApplication\bin\Debug\net6.0\DataDrivenApplication.runtimeconfig.json
+C:\Users\jayan\source\repos\DataDrivenApplication\DataDrivenApplication\bin\Debug\net6.0\DataDrivenApplication.dll
+C:\Users\jayan\source\repos\DataDrivenApplication\DataDrivenApplication\bin\Debug\net6.0\DataDrivenApplication.pdb
+C:\Users\jayan\source\repos\DataDrivenApplication\DataDrivenApplication\obj\Debug\net6.0\DataDrivenApplication.csproj.AssemblyReference.cache
+C:\Users\jayan\source\repos\DataDrivenApplication\DataDrivenApplication\obj\Debug\net6.0\DataDrivenApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayan\source\repos\DataDrivenApplication\DataDrivenApplication\obj\Debug\net6.0\DataDrivenApplication.AssemblyInfoInputs.cache
+C:\Users\jayan\source\repos\DataDrivenApplication\DataDrivenApplication\obj\Debug\net6.0\DataDrivenApplication.AssemblyInfo.cs
+C:\Users\jayan\source\repos\DataDrivenApplication\DataDrivenApplication\obj\Debug\net6.0\DataDrivenApplication.csproj.CoreCompileInputs.cache
+C:\Users\jayan\source\repos\DataDrivenApplication\DataDrivenApplication\obj\Debug\net6.0\DataDrivenApplication.dll
+C:\Users\jayan\source\repos\DataDrivenApplication\DataDrivenApplication\obj\Debug\net6.0\refint\DataDrivenApplication.dll
+C:\Users\jayan\source\repos\DataDrivenApplication\DataDrivenApplication\obj\Debug\net6.0\DataDrivenApplication.pdb
+C:\Users\jayan\source\repos\DataDrivenApplication\DataDrivenApplication\obj\Debug\net6.0\DataDrivenApplication.genruntimeconfig.cache
+C:\Users\jayan\source\repos\DataDrivenApplication\DataDrivenApplication\obj\Debug\net6.0\ref\DataDrivenApplication.dll

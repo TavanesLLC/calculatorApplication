@@ -1,0 +1,10 @@
+C:\Users\jayan\source\repos\Calculator\Calculator.Test\bin\Debug\Calculator.Test.dll
+C:\Users\jayan\source\repos\Calculator\Calculator.Test\bin\Debug\Calculator.Test.pdb
+C:\Users\jayan\source\repos\Calculator\Calculator.Test\bin\Debug\Calculator.Library.dll
+C:\Users\jayan\source\repos\Calculator\Calculator.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jayan\source\repos\Calculator\Calculator.Test\bin\Debug\Calculator.Library.pdb
+C:\Users\jayan\source\repos\Calculator\Calculator.Test\obj\Debug\Calculator.Library.Tests.csproj.AssemblyReference.cache
+C:\Users\jayan\source\repos\Calculator\Calculator.Test\obj\Debug\Calculator.Library.Tests.csproj.CoreCompileInputs.cache
+C:\Users\jayan\source\repos\Calculator\Calculator.Test\obj\Debug\Calculator.Library.Tests.csproj.CopyComplete
+C:\Users\jayan\source\repos\Calculator\Calculator.Test\obj\Debug\Calculator.Test.dll
+C:\Users\jayan\source\repos\Calculator\Calculator.Test\obj\Debug\Calculator.Test.pdb
