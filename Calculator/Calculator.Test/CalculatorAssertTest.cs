@@ -18,6 +18,7 @@ namespace Calculator.Library.Tests
             double actual = Math.Pow(5, 2);
 
             // Assert
+            // Assert - Check Actual v/s expected.
             Assert.AreEqual(expected, actual, "{0} Power {1} is 25", 5, 2);
         }
 
